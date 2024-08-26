@@ -32,4 +32,4 @@ The project is divided into two main parts:
 
    ```bash
    git clone https://github.com/parthnegi21/paytm-demo-.git
-   cd your-repository
+   cd paytm-demo-
